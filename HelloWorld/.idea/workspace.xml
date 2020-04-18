@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64789acc-740f-4680-aebb-b8d9739c090b" name="Default Changelist" comment="">
+    <list default="true" id="a91711d8-067c-44cc-8385-81f9d62bda98" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../BufferedReaderExample/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BufferedReaderExample/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BufferedReaderExample/.idea/modules.xml" afterDir="false" />
@@ -46,15 +46,15 @@
       <change afterPath="$PROJECT_DIR$/../HairdresserBookingSystem/src/customer/classes/customers/Customer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HairdresserBookingSystem/src/customer/classes/module-info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HairdresserBookingSystem/src/customer/customer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/module-info/module-info.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/module-info/src/module_info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/helloworld/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/helloworld/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-info/module-info.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-info/src/module_info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/helloworld/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helloworld/Greeting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaModularApplication/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaModularApplication/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaModularApplication/.idea/vcs.xml" afterDir="false" />
@@ -111,64 +111,46 @@
       <change afterPath="$PROJECT_DIR$/../TryWithResourcesExample/TryWithResourcesExample.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TryWithResourcesExample/out/production/TryWithResourcesExample/trywithresourceexample/TryWithResourcesExample.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TryWithResourcesExample/src/trywithresourceexample/TryWithResourcesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1aMKqX2B1H9NNPdZr4iFAnZ32KH" />
+  <component name="ProjectId" id="1aT7YKAEUDV1vua2qLc6o8Bv03h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="LambdaExample" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64789acc-740f-4680-aebb-b8d9739c090b" name="Default Changelist" comment="" />
-      <created>1586540213738</created>
+      <changelist id="a91711d8-067c-44cc-8385-81f9d62bda98" name="Default Changelist" comment="" />
+      <created>1586747775793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586540213738</updated>
-      <workItem from="1586540214948" duration="663000" />
-      <workItem from="1587189026526" duration="36000" />
-      <workItem from="1587189119942" duration="13000" />
+      <updated>1586747775793</updated>
+      <workItem from="1586747777027" duration="89000" />
+      <workItem from="1586747909599" duration="90000" />
+      <workItem from="1586748038225" duration="13000" />
+      <workItem from="1586748060334" duration="81000" />
+      <workItem from="1586748222121" duration="395000" />
+      <workItem from="1587188480239" duration="137000" />
     </task>
     <servers />
   </component>
@@ -176,33 +158,17 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="106" width="811" height="669" key="#Project_Structure" timestamp="1586540220073">
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586748313036">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state x="320" y="106" width="811" height="669" key="#Project_Structure/0.23.1440.835@0.23.1440.835" timestamp="1586540220073" />
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1586540878693">
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.835@0.23.1440.835" timestamp="1586748313036" />
+    <state x="246" y="23" width="947" height="835" key="CommitChangelistDialog2" timestamp="1587188615901">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1586540878693" />
-    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1586540878693">
+    <state x="246" y="23" width="947" height="835" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1587188615901" />
+    <state x="208" y="23" width="1024" height="835" key="SettingsEditor" timestamp="1586748366079">
       <screen x="0" y="23" width="1440" height="835" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1586540878693" />
-    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1586540878693">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1586540878693" />
-    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1586540878693">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1586540878693" />
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1587189039657">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1587189039657" />
-    <state x="512" y="309" key="git4idea.rebase.GitRebaseDialog" timestamp="1587189130430">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state x="512" y="309" key="git4idea.rebase.GitRebaseDialog/0.23.1440.835@0.23.1440.835" timestamp="1587189130430" />
+    <state x="208" y="23" width="1024" height="835" key="SettingsEditor/0.23.1440.835@0.23.1440.835" timestamp="1586748366079" />
   </component>
 </project>
